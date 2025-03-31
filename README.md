@@ -46,7 +46,8 @@ indeed-data-analyst-dashboard/
 
 ## 📸 Dashboard Preview
 
-> ![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/b8cfe43d-ce61-4fc9-90cb-d613b4152dce))
+> 
+![Dashboard Screenshot](https://github.com/user-attachments/assets/bcc7971c-9905-4101-8fa1-9c3ae04b2740)
 
 📍 **Live dashboard:**  
 [View it on Tableau Public](https://public.tableau.com/views/Indeed_17433338137300/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
