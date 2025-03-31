@@ -32,7 +32,7 @@ indeed-data-analyst-dashboard/
 │   └── data_cleaning.ipynb           # Final data prep for Tableau
 │
 ├── data/
-│   └── indeed_cleaned_final.csv      # Cleaned dataset for Tableau
+│   └── indeed_for_tableau.csv      # Cleaned dataset for Tableau
 │
 ├── tableau/
 │   └── Indeed_Job_Trend_Dashboard.twbx  # Published Tableau file
